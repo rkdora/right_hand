@@ -3,11 +3,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   </head>
   <body>
-
-    美ら海水族館
-
-    <a href = "http://www.sakurajima.gr.jp">桜島</a>
-    首里城
-
+    <h1>僕らの観光地</h1>
+    <ul>
+      <li><a href = "https://churaumi.okinawa/">美ら海水族館</a></li>
+      <li><a href = "http://www.sakurajima.gr.jp">桜島</a></li>
+      <li><a href = "https://kumamoto-guide.jp/kumamoto-castle/">熊本城</a></li>
+      <li><a href = "http://www.dazaifutenmangu.or.jp/">太宰府天満宮</a></li>
+      <li><a href = "http://oki-park.jp/shurijo/">首里城</a></li>
   </body>
 </html>
